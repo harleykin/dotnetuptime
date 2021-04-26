@@ -33,5 +33,9 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
 robotsText: "User-agent: * \n Disallow: /"
+
+status-website:
+  theme: dark
 
