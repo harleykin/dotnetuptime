@@ -33,8 +33,8 @@ status-website:
   metaTags:
     - name: "robots"
       content: "noindex"
-  theme: dark
-  css: "body {background:url(https://i.ibb.co/LtWhWgx/NGC1499-Akar-3296.jpg) no-repeat fixed; background-size:cover; text-color:#ffffff;} card, main article, section article, canvas {background-color:#142435;} nav {background:none; text-color:#ffffff; border:0 none; font-weight:bold;} nav ul li a, footer p {text-color:#ffffff;} article {border:1px solid #1B2B40;}"
+  theme: night
+#  css: "body {background:url(https://i.ibb.co/LtWhWgx/NGC1499-Akar-3296.jpg) no-repeat fixed; background-size:cover; text-color:#ffffff;} card, main article, section article, canvas {background-color:#142435;} nav {background:none; text-color:#ffffff; border:0 none; font-weight:bold;} nav ul li a, footer p {text-color:#ffffff;} article {border:1px solid #1B2B40;}"
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
