@@ -36,10 +36,9 @@ status-website:
       content: "dark light"
     - name: "robots"
       content: "noindex"
-  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
-robotsText: "User-agent: * \n Disallow: /"
+
 
