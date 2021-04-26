@@ -5,12 +5,16 @@ repo: dotnetuptime # The name of this repository
 sites:
   - name: NickiFaulk.com
     url: https://www.nickifaulk.com
+    icon: https://www.nickifaulk.com/favicon.ico
   - name: NowWereCookin.org
     url: https://www.nowwerecookin.org
+    icon: https://www.nowwerecookin.org/favicon.png
   - name: Borg Collection
     url: https://fanlistings.nickifaulk.com
+    icon: https://fanlistings.nickifaulk.com/favicon.ico
   - name: WebRing Compendium
     url: https://webrings.nickifaulk.com
+    icon: https://webrings.nickifaulk.com/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
