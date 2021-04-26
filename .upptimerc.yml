@@ -30,6 +30,12 @@ status-website:
       href: /
 #    - title: GitHub
 #      href: https://github.com/$OWNER/$REPO
+  status-website:
+  metaTags:
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
   theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
