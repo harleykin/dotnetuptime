@@ -30,12 +30,11 @@ status-website:
       href: /
   #    - title: GitHub
   #      href: https://github.com/$OWNER/$REPO
-  metaTags:
-    - name: "robots"
-      content: "noindex"
   css: "body {background:url(https://i.ibb.co/LtWhWgx/NGC1499-Akar-3296.jpg) no-repeat fixed; background-size:cover; text-color: #f0ffff;}"
   css: "card {background-color:#56051A;}"
   css: "nav {background-color:#56051A;}"
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+robotsText: "User-agent: * \n Disallow: /"
