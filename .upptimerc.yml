@@ -35,7 +35,7 @@ status-website:
       content: "dark"
     - name: "robots"
       content: "noindex"
-  css: "body { opacity: 0.5; background:url(https://i.ibb.co/LtWhWgx/NGC1499-Akar-3296.jpg) no-repeat fixed; background-size:cover;}"
+  css: "body {background:url(https://i.ibb.co/LtWhWgx/NGC1499-Akar-3296.jpg) no-repeat fixed; background-size:cover;}"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
