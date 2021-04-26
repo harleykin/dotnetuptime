@@ -33,6 +33,7 @@ status-website:
   metaTags:
     - name: "robots"
       content: "noindex"
+  theme: light
   css: "body {background:url(https://i.ibb.co/LtWhWgx/NGC1499-Akar-3296.jpg) no-repeat fixed; background-size:cover; text-color:#f0ffff;} card {background-color:#56051A;} nav {background:none; text-color:#f0ffff;} nav ul li a, footer p {text-color:#f0ffff;}"
   
 # Upptime also supports notifications, assigning issues, and more
