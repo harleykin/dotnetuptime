@@ -40,19 +40,19 @@
     "url": "https://fanlistings.nickifaulk.com",
     "icon": "https://fanlistings.nickifaulk.com/favicon.ico",
     "slug": "borg-collection",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 691,
-    "timeDay": 379,
-    "timeWeek": 691,
-    "timeMonth": 691,
-    "timeYear": 691,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 684,
+    "timeDay": 400,
+    "timeWeek": 684,
+    "timeMonth": 684,
+    "timeYear": 684,
     "dailyMinutesDown": {
-      "2021-05-02": 0
+      "2021-05-02": 12
     }
   },
   {
