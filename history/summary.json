@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1152,
     "timeDay": 428,
-    "timeWeek": 723,
+    "timeWeek": 758,
     "timeMonth": 1152,
     "timeYear": 1152,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 953,
     "timeDay": 326,
-    "timeWeek": 795,
+    "timeWeek": 894,
     "timeMonth": 953,
     "timeYear": 953,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 651,
     "timeDay": 327,
-    "timeWeek": 364,
+    "timeWeek": 367,
     "timeMonth": 651,
     "timeYear": 651,
     "dailyMinutesDown": {}
@@ -58,17 +58,19 @@
     "url": "https://webrings.nickifaulk.com",
     "icon": "https://webrings.nickifaulk.com/favicon.ico",
     "slug": "web-ring-compendium",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 253,
     "timeDay": 115,
-    "timeWeek": 159,
+    "timeWeek": 165,
     "timeMonth": 253,
     "timeYear": 253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-04": 0
+    }
   }
 ]
