@@ -4,9 +4,9 @@
     "url": "https://www.nickifaulk.com",
     "icon": "https://www.nickifaulk.com/favicon.ico",
     "slug": "nicki-faulk-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 787,
     "timeMonth": 1132,
     "timeYear": 1132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-20": 0
+    }
   },
   {
     "name": "NowWereCookin.org",
     "url": "https://www.nowwerecookin.org",
     "icon": "https://www.nowwerecookin.org/favicon.png",
     "slug": "now-were-cookin-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
@@ -34,6 +36,7 @@
     "timeMonth": 1102,
     "timeYear": 1102,
     "dailyMinutesDown": {
+      "2021-05-20": 0,
       "2021-05-12": 33
     }
   },
@@ -42,9 +45,9 @@
     "url": "https://fanlistings.nickifaulk.com",
     "icon": "https://fanlistings.nickifaulk.com/favicon.ico",
     "slug": "borg-collection",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,16 +56,18 @@
     "timeWeek": 383,
     "timeMonth": 639,
     "timeYear": 639,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-20": 0
+    }
   },
   {
     "name": "WebRing Compendium",
     "url": "https://webrings.nickifaulk.com",
     "icon": "https://webrings.nickifaulk.com/favicon.ico",
     "slug": "web-ring-compendium",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,6 +76,8 @@
     "timeWeek": 234,
     "timeMonth": 240,
     "timeYear": 240,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-20": 0
+    }
   }
 ]
