@@ -5,19 +5,17 @@
     "icon": "https://www.nickifaulk.com/favicon.ico",
     "slug": "nicki-faulk-com",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1134,
-    "timeDay": 898,
-    "timeWeek": 839,
-    "timeMonth": 1134,
-    "timeYear": 1134,
-    "dailyMinutesDown": {
-      "2021-05-20": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1135,
+    "timeDay": 1207,
+    "timeWeek": 901,
+    "timeMonth": 1135,
+    "timeYear": 1135,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NowWereCookin.org",
@@ -25,18 +23,17 @@
     "icon": "https://www.nowwerecookin.org/favicon.png",
     "slug": "now-were-cookin-org",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 1103,
-    "timeDay": 888,
-    "timeWeek": 988,
-    "timeMonth": 1103,
-    "timeYear": 1103,
+    "uptime": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1120,
+    "timeDay": 1656,
+    "timeWeek": 1168,
+    "timeMonth": 1120,
+    "timeYear": 1120,
     "dailyMinutesDown": {
-      "2021-05-20": 14,
       "2021-05-12": 33
     }
   },
@@ -46,19 +43,17 @@
     "icon": "https://fanlistings.nickifaulk.com/favicon.ico",
     "slug": "borg-collection",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 635,
-    "timeDay": 461,
-    "timeWeek": 389,
-    "timeMonth": 635,
-    "timeYear": 635,
-    "dailyMinutesDown": {
-      "2021-05-20": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 637,
+    "timeDay": 597,
+    "timeWeek": 435,
+    "timeMonth": 637,
+    "timeYear": 637,
+    "dailyMinutesDown": {}
   },
   {
     "name": "WebRing Compendium",
@@ -66,18 +61,16 @@
     "icon": "https://webrings.nickifaulk.com/favicon.ico",
     "slug": "web-ring-compendium",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 219,
-    "timeWeek": 227,
+    "timeDay": 197,
+    "timeWeek": 224,
     "timeMonth": 239,
     "timeYear": 239,
-    "dailyMinutesDown": {
-      "2021-05-20": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
