@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.80%",
-    "time": 1086,
-    "timeDay": 766,
-    "timeWeek": 903,
-    "timeMonth": 903,
-    "timeYear": 1086,
+    "time": 1083,
+    "timeDay": 758,
+    "timeWeek": 954,
+    "timeMonth": 909,
+    "timeYear": 1083,
     "dailyMinutesDown": {
       "2021-06-25": 202
     }
@@ -25,16 +25,16 @@
     "icon": "https://www.nowwerecookin.org/favicon.png",
     "slug": "now-were-cookin-org",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "99.76%",
-    "time": 1156,
-    "timeDay": 1673,
-    "timeWeek": 1158,
-    "timeMonth": 1180,
-    "timeYear": 1156,
+    "uptimeYear": "99.77%",
+    "time": 1149,
+    "timeDay": 440,
+    "timeWeek": 1103,
+    "timeMonth": 1165,
+    "timeYear": 1149,
     "dailyMinutesDown": {
       "2021-06-25": 202,
       "2021-05-12": 33
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.80%",
-    "time": 622,
-    "timeDay": 452,
-    "timeWeek": 486,
-    "timeMonth": 485,
-    "timeYear": 622,
+    "time": 620,
+    "timeDay": 389,
+    "timeWeek": 469,
+    "timeMonth": 486,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2021-06-25": 202
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.80%",
-    "time": 265,
-    "timeDay": 171,
-    "timeWeek": 252,
-    "timeMonth": 201,
-    "timeYear": 265,
+    "time": 264,
+    "timeDay": 198,
+    "timeWeek": 237,
+    "timeMonth": 203,
+    "timeYear": 264,
     "dailyMinutesDown": {
       "2021-06-25": 202
     }
