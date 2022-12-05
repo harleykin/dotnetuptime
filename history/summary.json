@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.20%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 946,
-    "timeDay": 719,
-    "timeWeek": 801,
-    "timeMonth": 966,
-    "timeYear": 977,
+    "timeDay": 845,
+    "timeWeek": 802,
+    "timeMonth": 976,
+    "timeYear": 976,
     "dailyMinutesDown": {
       "2022-12-02": 71,
       "2022-11-12": 81,
@@ -37,8 +37,7 @@
       "2021-12-16": 34,
       "2021-12-15": 34,
       "2021-12-12": 32,
-      "2021-12-09": 35,
-      "2021-12-05": 32
+      "2021-12-09": 35
     }
   },
   {
@@ -52,10 +51,10 @@
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.54%",
-    "time": 1231,
-    "timeDay": 1132,
-    "timeWeek": 1113,
-    "timeMonth": 1274,
+    "time": 1233,
+    "timeDay": 1693,
+    "timeWeek": 1165,
+    "timeMonth": 1273,
     "timeYear": 1201,
     "dailyMinutesDown": {
       "2022-12-02": 71,
@@ -79,8 +78,7 @@
       "2021-12-16": 34,
       "2021-12-15": 34,
       "2021-12-12": 32,
-      "2021-12-09": 35,
-      "2021-12-05": 32
+      "2021-12-09": 35
     }
   },
   {
@@ -89,16 +87,16 @@
     "icon": "https://fanlistings.nickifaulk.com/favicon.ico",
     "slug": "borg-collection",
     "status": "up",
-    "uptime": "99.12%",
+    "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.20%",
-    "uptimeYear": "98.68%",
-    "time": 406,
-    "timeDay": 435,
-    "timeWeek": 476,
-    "timeMonth": 393,
-    "timeYear": 398,
+    "uptimeYear": "98.69%",
+    "time": 404,
+    "timeDay": 830,
+    "timeWeek": 547,
+    "timeMonth": 409,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2022-12-02": 71,
       "2022-11-12": 81,
@@ -125,8 +123,7 @@
       "2021-12-16": 34,
       "2021-12-15": 34,
       "2021-12-12": 32,
-      "2021-12-09": 35,
-      "2021-12-05": 32
+      "2021-12-09": 35
     }
   },
   {
@@ -139,12 +136,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.20%",
-    "uptimeYear": "99.55%",
+    "uptimeYear": "99.56%",
     "time": 217,
-    "timeDay": 265,
-    "timeWeek": 266,
-    "timeMonth": 203,
-    "timeYear": 196,
+    "timeDay": 341,
+    "timeWeek": 286,
+    "timeMonth": 210,
+    "timeYear": 197,
     "dailyMinutesDown": {
       "2022-12-02": 71,
       "2022-11-12": 81,
@@ -165,8 +162,7 @@
       "2021-12-16": 34,
       "2021-12-15": 34,
       "2021-12-12": 32,
-      "2021-12-09": 35,
-      "2021-12-05": 32
+      "2021-12-09": 35
     }
   }
 ]
