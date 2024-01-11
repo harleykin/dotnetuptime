@@ -10,14 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 915,
-    "timeDay": 562,
-    "timeWeek": 542,
-    "timeMonth": 692,
-    "timeYear": 858,
+    "time": 912,
+    "timeDay": 511,
+    "timeWeek": 492,
+    "timeMonth": 682,
+    "timeYear": 857,
     "dailyMinutesDown": {
-      "2023-10-23": 15,
-      "2023-01-11": 42
+      "2023-10-23": 15
     }
   },
   {
@@ -31,14 +30,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1172,
-    "timeDay": 549,
-    "timeWeek": 923,
-    "timeMonth": 858,
-    "timeYear": 1142,
-    "dailyMinutesDown": {
-      "2023-01-11": 42
-    }
+    "time": 1170,
+    "timeDay": 939,
+    "timeWeek": 892,
+    "timeMonth": 853,
+    "timeYear": 1143,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Borg Collection",
@@ -52,13 +49,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 387,
-    "timeDay": 275,
-    "timeWeek": 408,
-    "timeMonth": 365,
-    "timeYear": 380,
-    "dailyMinutesDown": {
-      "2023-01-11": 42
-    }
+    "timeDay": 219,
+    "timeWeek": 333,
+    "timeMonth": 356,
+    "timeYear": 379,
+    "dailyMinutesDown": {}
   },
   {
     "name": "WebRing Compendium",
@@ -72,12 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 185,
-    "timeDay": 95,
-    "timeWeek": 142,
-    "timeMonth": 186,
+    "timeDay": 135,
+    "timeWeek": 129,
+    "timeMonth": 178,
     "timeYear": 182,
-    "dailyMinutesDown": {
-      "2023-01-11": 42
-    }
+    "dailyMinutesDown": {}
   }
 ]
