@@ -4,18 +4,19 @@
     "url": "https://www.nickifaulk.com",
     "icon": "https://www.nickifaulk.com/favicon.ico",
     "slug": "nicki-faulk-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 893,
+    "time": 892,
     "timeDay": 704,
     "timeWeek": 746,
     "timeMonth": 707,
     "timeYear": 843,
     "dailyMinutesDown": {
+      "2024-02-07": 1,
       "2023-10-23": 15
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://www.nowwerecookin.org",
     "icon": "https://www.nowwerecookin.org/favicon.png",
     "slug": "now-were-cookin-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1146,
@@ -35,7 +36,9 @@
     "timeWeek": 906,
     "timeMonth": 844,
     "timeYear": 1117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-07": 1
+    }
   },
   {
     "name": "Borg Collection",
