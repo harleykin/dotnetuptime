@@ -6,17 +6,16 @@
     "slug": "nicki-faulk-com",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 895,
-    "timeDay": 1739,
-    "timeWeek": 1092,
-    "timeMonth": 807,
-    "timeYear": 850,
+    "time": 894,
+    "timeDay": 1028,
+    "timeWeek": 1165,
+    "timeMonth": 841,
+    "timeYear": 852,
     "dailyMinutesDown": {
-      "2024-02-08": 6,
       "2023-10-23": 15
     }
   },
@@ -31,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1142,
-    "timeDay": 525,
-    "timeWeek": 854,
-    "timeMonth": 781,
-    "timeYear": 1113,
+    "time": 1139,
+    "timeDay": 694,
+    "timeWeek": 847,
+    "timeMonth": 780,
+    "timeYear": 1112,
     "dailyMinutesDown": {}
   },
   {
@@ -50,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 385,
-    "timeDay": 361,
-    "timeWeek": 453,
-    "timeMonth": 364,
-    "timeYear": 377,
+    "timeDay": 351,
+    "timeWeek": 434,
+    "timeMonth": 357,
+    "timeYear": 376,
     "dailyMinutesDown": {}
   },
   {
@@ -68,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 238,
-    "timeWeek": 218,
-    "timeMonth": 192,
-    "timeYear": 181,
+    "timeDay": 92,
+    "timeWeek": 197,
+    "timeMonth": 189,
+    "timeYear": 180,
     "dailyMinutesDown": {}
   }
 ]
