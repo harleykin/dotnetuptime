@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 874,
-    "timeDay": 420,
-    "timeWeek": 606,
-    "timeMonth": 845,
-    "timeYear": 843,
+    "time": 873,
+    "timeDay": 775,
+    "timeWeek": 618,
+    "timeMonth": 710,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2023-10-23": 15
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1090,
-    "timeDay": 474,
-    "timeWeek": 595,
-    "timeMonth": 854,
-    "timeYear": 1100,
+    "timeDay": 766,
+    "timeWeek": 590,
+    "timeMonth": 809,
+    "timeYear": 1097,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://fanlistings.nickifaulk.com/favicon.ico",
     "slug": "borg-collection",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 392,
-    "timeDay": 275,
-    "timeWeek": 435,
-    "timeMonth": 456,
-    "timeYear": 389,
+    "timeDay": 540,
+    "timeWeek": 416,
+    "timeMonth": 463,
+    "timeYear": 390,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 214,
-    "timeWeek": 198,
-    "timeMonth": 214,
-    "timeYear": 185,
+    "time": 189,
+    "timeDay": 306,
+    "timeWeek": 196,
+    "timeMonth": 216,
+    "timeYear": 186,
     "dailyMinutesDown": {}
   }
 ]
