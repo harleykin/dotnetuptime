@@ -5,16 +5,16 @@
     "icon": "https://www.nickifaulk.com/favicon.ico",
     "slug": "nicki-faulk-com",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 866,
-    "timeDay": 569,
-    "timeWeek": 951,
-    "timeMonth": 766,
-    "timeYear": 841,
+    "timeDay": 944,
+    "timeWeek": 846,
+    "timeMonth": 763,
+    "timeYear": 842,
     "dailyMinutesDown": {
       "2023-10-23": 15
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1085,
-    "timeDay": 690,
-    "timeWeek": 1136,
-    "timeMonth": 857,
-    "timeYear": 1088,
+    "time": 1084,
+    "timeDay": 464,
+    "timeWeek": 820,
+    "timeMonth": 859,
+    "timeYear": 1084,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 394,
-    "timeDay": 690,
-    "timeWeek": 645,
-    "timeMonth": 505,
-    "timeYear": 394,
+    "timeDay": 220,
+    "timeWeek": 570,
+    "timeMonth": 501,
+    "timeYear": 393,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 354,
-    "timeWeek": 247,
-    "timeMonth": 224,
+    "timeDay": 96,
+    "timeWeek": 211,
+    "timeMonth": 220,
     "timeYear": 185,
     "dailyMinutesDown": {}
   }
