@@ -4,11 +4,11 @@
     "url": "https://www.nickifaulk.com",
     "icon": "https://www.nickifaulk.com/favicon.ico",
     "slug": "nicki-faulk-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 834,
     "timeDay": 713,
@@ -16,6 +16,7 @@
     "timeMonth": 689,
     "timeYear": 838,
     "dailyMinutesDown": {
+      "2024-05-31": 2,
       "2023-10-23": 15
     }
   },
@@ -24,36 +25,40 @@
     "url": "https://www.nowwerecookin.org",
     "icon": "https://www.nowwerecookin.org/favicon.png",
     "slug": "now-were-cookin-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1055,
+    "time": 1056,
     "timeDay": 727,
     "timeWeek": 1149,
     "timeMonth": 891,
     "timeYear": 1037,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-31": 2
+    }
   },
   {
     "name": "Borg Collection",
     "url": "https://fanlistings.nickifaulk.com",
     "icon": "https://fanlistings.nickifaulk.com/favicon.ico",
     "slug": "borg-collection",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 399,
+    "time": 400,
     "timeDay": 606,
     "timeWeek": 448,
     "timeMonth": 481,
     "timeYear": 409,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-31": 0
+    }
   },
   {
     "name": "WebRing Compendium",
