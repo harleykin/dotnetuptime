@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 832,
-    "timeDay": 676,
-    "timeWeek": 806,
-    "timeMonth": 665,
+    "time": 830,
+    "timeDay": 416,
+    "timeWeek": 633,
+    "timeMonth": 668,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2023-10-23": 15
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1054,
-    "timeDay": 691,
-    "timeWeek": 1079,
-    "timeMonth": 841,
+    "time": 1053,
+    "timeDay": 411,
+    "timeWeek": 996,
+    "timeMonth": 831,
     "timeYear": 1036,
     "dailyMinutesDown": {}
   },
@@ -42,18 +42,20 @@
     "url": "https://fanlistings.nickifaulk.com",
     "icon": "https://fanlistings.nickifaulk.com/favicon.ico",
     "slug": "borg-collection",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 401,
-    "timeDay": 547,
-    "timeWeek": 481,
-    "timeMonth": 486,
+    "timeDay": 327,
+    "timeWeek": 444,
+    "timeMonth": 485,
     "timeYear": 410,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-01": 0
+    }
   },
   {
     "name": "WebRing Compendium",
@@ -67,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 101,
-    "timeWeek": 175,
+    "timeDay": 145,
+    "timeWeek": 151,
     "timeMonth": 198,
     "timeYear": 188,
     "dailyMinutesDown": {}
