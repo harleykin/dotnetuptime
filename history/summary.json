@@ -6,17 +6,16 @@
     "slug": "nicki-faulk-com",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 834,
-    "timeDay": 819,
-    "timeWeek": 830,
-    "timeMonth": 696,
-    "timeYear": 839,
+    "time": 832,
+    "timeDay": 676,
+    "timeWeek": 806,
+    "timeMonth": 665,
+    "timeYear": 837,
     "dailyMinutesDown": {
-      "2024-05-31": 6,
       "2023-10-23": 15
     }
   },
@@ -27,18 +26,16 @@
     "slug": "now-were-cookin-org",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1055,
-    "timeDay": 723,
-    "timeWeek": 1095,
-    "timeMonth": 885,
+    "time": 1054,
+    "timeDay": 691,
+    "timeWeek": 1079,
+    "timeMonth": 841,
     "timeYear": 1036,
-    "dailyMinutesDown": {
-      "2024-05-31": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Borg Collection",
@@ -47,18 +44,16 @@
     "slug": "borg-collection",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 401,
-    "timeDay": 670,
-    "timeWeek": 484,
-    "timeMonth": 489,
+    "timeDay": 547,
+    "timeWeek": 481,
+    "timeMonth": 486,
     "timeYear": 410,
-    "dailyMinutesDown": {
-      "2024-05-31": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WebRing Compendium",
@@ -72,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 228,
-    "timeWeek": 174,
-    "timeMonth": 200,
+    "timeDay": 101,
+    "timeWeek": 175,
+    "timeMonth": 198,
     "timeYear": 188,
     "dailyMinutesDown": {}
   }
