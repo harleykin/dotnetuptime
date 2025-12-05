@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.19%",
-    "time": 819,
-    "timeDay": 478,
-    "timeWeek": 918,
-    "timeMonth": 827,
-    "timeYear": 794,
+    "time": 817,
+    "timeDay": 1089,
+    "timeWeek": 1002,
+    "timeMonth": 842,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2025-11-24": 111,
       "2025-11-17": 23,
@@ -40,8 +40,7 @@
       "2025-01-18": 707,
       "2025-01-05": 282,
       "2024-12-08": 39,
-      "2024-12-06": 373,
-      "2024-12-05": 202
+      "2024-12-06": 373
     }
   },
   {
@@ -50,16 +49,16 @@
     "icon": "https://www.nowwerecookin.org/favicon.png",
     "slug": "now-were-cookin-org",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.21%",
-    "time": 1042,
-    "timeDay": 722,
-    "timeWeek": 956,
-    "timeMonth": 985,
-    "timeYear": 1038,
+    "time": 1041,
+    "timeDay": 542,
+    "timeWeek": 969,
+    "timeMonth": 981,
+    "timeYear": 1036,
     "dailyMinutesDown": {
       "2025-11-10": 54,
       "2025-11-07": 29,
@@ -83,8 +82,7 @@
       "2025-01-18": 706,
       "2025-01-05": 281,
       "2024-12-08": 39,
-      "2024-12-06": 373,
-      "2024-12-05": 202
+      "2024-12-06": 373
     }
   },
   {
@@ -98,10 +96,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.85%",
-    "time": 481,
-    "timeDay": 451,
-    "timeWeek": 457,
-    "timeMonth": 468,
+    "time": 480,
+    "timeDay": 312,
+    "timeWeek": 468,
+    "timeMonth": 461,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2025-11-10": 54,
@@ -135,9 +133,9 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.86%",
     "time": 244,
-    "timeDay": 264,
-    "timeWeek": 240,
-    "timeMonth": 235,
+    "timeDay": 166,
+    "timeWeek": 238,
+    "timeMonth": 231,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2025-11-10": 53,
