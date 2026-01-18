@@ -6,14 +6,14 @@
     "slug": "nicki-faulk-com",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "98.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.37%",
     "time": 816,
-    "timeDay": 573,
-    "timeWeek": 795,
-    "timeMonth": 871,
+    "timeDay": 603,
+    "timeWeek": 770,
+    "timeMonth": 876,
     "timeYear": 808,
     "dailyMinutesDown": {
       "2026-01-16": 17,
@@ -38,8 +38,7 @@
       "2025-02-20": 60,
       "2025-02-04": 24,
       "2025-01-31": 27,
-      "2025-01-26": 307,
-      "2025-01-18": 707
+      "2025-01-26": 307
     }
   },
   {
@@ -49,15 +48,15 @@
     "slug": "now-were-cookin-org",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "98.92%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.39%",
     "time": 1038,
-    "timeDay": 823,
-    "timeWeek": 1036,
-    "timeMonth": 1013,
-    "timeYear": 1049,
+    "timeDay": 935,
+    "timeWeek": 1027,
+    "timeMonth": 1017,
+    "timeYear": 1050,
     "dailyMinutesDown": {
       "2026-01-16": 15,
       "2025-12-11": 27,
@@ -79,8 +78,7 @@
       "2025-02-20": 106,
       "2025-02-04": 23,
       "2025-01-31": 27,
-      "2025-01-26": 307,
-      "2025-01-18": 706
+      "2025-01-26": 307
     }
   },
   {
@@ -94,10 +92,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 478,
-    "timeDay": 407,
-    "timeWeek": 452,
-    "timeMonth": 423,
+    "time": 477,
+    "timeDay": 310,
+    "timeWeek": 401,
+    "timeMonth": 421,
     "timeYear": 413,
     "dailyMinutesDown": {
       "2025-12-11": 27,
@@ -114,8 +112,7 @@
       "2025-04-02": 84,
       "2025-02-21": 39,
       "2025-02-04": 23,
-      "2025-01-31": 26,
-      "2025-01-18": 21
+      "2025-01-31": 26
     }
   },
   {
@@ -130,9 +127,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 241,
-    "timeDay": 194,
-    "timeWeek": 202,
-    "timeMonth": 201,
+    "timeDay": 107,
+    "timeWeek": 179,
+    "timeMonth": 200,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2025-12-11": 27,
@@ -148,8 +145,7 @@
       "2025-04-23": 17,
       "2025-04-02": 83,
       "2025-02-21": 38,
-      "2025-02-04": 22,
-      "2025-01-18": 20
+      "2025-02-04": 22
     }
   }
 ]
