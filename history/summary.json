@@ -4,17 +4,17 @@
     "url": "https://www.nickifaulk.com",
     "icon": "https://www.nickifaulk.com/favicon.ico",
     "slug": "nicki-faulk-com",
-    "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "91.60%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.69%",
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "87.02%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.67%",
     "time": 825,
-    "timeDay": 971,
-    "timeWeek": 1087,
-    "timeMonth": 924,
-    "timeYear": 815,
+    "timeDay": 727,
+    "timeWeek": 993,
+    "timeMonth": 903,
+    "timeYear": 813,
     "dailyMinutesDown": {
       "2025-07-16": 43,
       "2025-07-25": 26,
@@ -34,7 +34,7 @@
       "2026-02-24": 62,
       "2026-03-25": 49,
       "2026-04-11": 54,
-      "2026-06-09": 121
+      "2026-06-09": 187
     }
   },
   {
