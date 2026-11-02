@@ -65,10 +65,10 @@
     "url": "https://fanlistings.nickifaulk.com",
     "icon": "https://fanlistings.nickifaulk.com/favicon.ico",
     "slug": "borg-collection",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 405,
@@ -84,7 +84,8 @@
       "2026-02-09": 32,
       "2026-04-11": 51,
       "2026-06-09": 107,
-      "2026-06-10": 500
+      "2026-06-10": 500,
+      "2026-11-02": 1
     }
   },
   {
@@ -92,9 +93,9 @@
     "url": "https://webrings.nickifaulk.com",
     "icon": "https://webrings.nickifaulk.com/favicon.ico",
     "slug": "web-ring-compendium",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -110,7 +111,8 @@
       "2025-12-11": 27,
       "2026-02-09": 32,
       "2026-06-09": 102,
-      "2026-06-10": 235
+      "2026-06-10": 235,
+      "2026-11-02": 0
     }
   }
 ]
