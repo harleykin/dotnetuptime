@@ -9,12 +9,12 @@ sites:
   - name: NowWereCookin.org
     url: https://www.nowwerecookin.org
     icon: https://www.nowwerecookin.org/favicon.png
-  - name: Borg Collection
-    url: https://fanlistings.nickifaulk.com
-    icon: https://fanlistings.nickifaulk.com/favicon.ico
-  - name: WebRing Compendium
-    url: https://webrings.nickifaulk.com
-    icon: https://webrings.nickifaulk.com/favicon.ico
+  - name: SANO
+    url: https://startat.nitallica.org
+    icon: https://startat.nitallica.org/wp-content/uploads/2024/06/book-150x150.png
+  - name: Fravia Mirror
+    url: https://searchlores.nickifaulk.com
+    icon: https://searchlores.nickifaulk.com/images/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain 
